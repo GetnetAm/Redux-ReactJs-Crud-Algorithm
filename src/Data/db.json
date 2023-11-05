@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "kebe",
+      "email": "g@gamil.com",
+      "phone": "95340895",
+      "role":"staff"
+    },
+    {
+      "id": 2,
+      "name": "fasdkebe",
+      "email": "g@gamil.com",
+      "phone": "95340895",
+      "role":"staff"
+    },
+    {
+      "id": 3,
+      "name": "faskebe",
+      "email": "g@gamil.com",
+      "phone": "95340895",
+      "role":"staff"
+    }
+  ]
+  
+}
